@@ -42,9 +42,6 @@ const Signup = () => {
           />
         </Form.Group>
 
-        <Form.Text className="text-muted">
-          <i>Signup with Google.</i>
-        </Form.Text>
         <br />
         <br />
         <Button variant="primary" type="submit">
